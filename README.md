@@ -1,6 +1,4 @@
 special app tested
-<<<<<<< HEAD
 master tested
-=======
 Слияние веток - tested
->>>>>>> new-contacts
+4.5 Отмена (сброс) коммитов
